@@ -1,8 +1,8 @@
 {
     "name":"module_coba",
     "version":"0.0.1",
-    "requirement":"openedoo_core",
-    "pip_library":[],
+    "requirement":"module_hello",
+    "pip_library":["flask"],
     "comment":"testing module openedoo",
     "type":"end_point",
     "url_endpoint":"/module_coba"
