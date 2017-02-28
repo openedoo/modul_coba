@@ -1,7 +1,7 @@
 {
     "name":"module_coba",
     "version":"0.0.1",
-    "requirement":"module_hello",
+    "requirement":{"name":"module_hello","url":"https://github.com/openedoo/module_hello.git"},
     "pip_library":["flask"],
     "comment":"testing module openedoo",
     "type":"end_point",
